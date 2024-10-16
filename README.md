@@ -14,5 +14,5 @@ This is a good example for [of my code] https://gist.github.com/JoseCebCon/56d23
 ### Colab example
 this is the [notebook](https://github.com/JoseCebCon/technical-discussion.ipynb)
 
-###Image
+### Image
 ![image](https://github.com/user-attachments/assets/bae94db1-cb13-4934-9690-d88a8c45e511)
